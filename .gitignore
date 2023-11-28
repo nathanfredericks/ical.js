@@ -1,10 +1,10 @@
 node_modules
 bower_components
 *.pyc
-dist/
 docs/api/
 docs/validator.html
 tools/vzic/
 tools/tzdb/
 tools/libical/
 coverage/
+.idea/
